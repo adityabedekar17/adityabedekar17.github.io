@@ -13,7 +13,7 @@ Gained foundational knowledge in Digital Logic Circuits, Computer Networks, and 
 
 ### **Teaching Assistant, UC Santa Cruz**  
 *Jan 2024 - Present*  
-Assisting in **Advanced Computer Networks** and **Introduction to Networking** courses. Led lab sections, guiding students through topics such as **TCP/IP**, **VLANs**, **OSI model**, and **LAN security**. Developed strong communication skills while helping students build practical networking solutions.
+Assisting in **Advanced Computer Networks** and **Introduction to Networking** courses. Led lab sections, guiding students through topics such as **TCP/IP**, **VLANs**, **OSI model**, and **LAN security**, **Layer 2 & Layer 3 Switches**, **OSPF, BGP, HSRP, VRRP, BPDU, PortFast**. Developed strong communication skills while helping students build practical networking solutions.
 
 ### Summer Intern, Godrej & Boyce  
 *June 2022 - July 2022*  
