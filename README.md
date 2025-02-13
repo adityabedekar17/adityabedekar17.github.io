@@ -1,4 +1,4 @@
-# MS CSE @ UC Santa Cruz
+#Aditya Bedekar
 
 ## **Work Experience**
 ### **Graduate Researcher, UC Santa Cruz**  
