@@ -7,7 +7,7 @@ I am currently focused on **characterizing and modeling Bias Temperature Instabi
 
 Since Summer 2024, I have conducted an extensive **literature review** on **NBTI characterization methodologies**, exploring various approaches to modeling its impact on circuit reliability. My work involves using **open-source and industry-standard tools** for **MOSFET reliability analysis**, including:  
 - **Open-Source PDKs:** Sky130nm and ASAP7nm  
-- **Circuit Simulation Tools:** PySpice, Synopsys HSPICE MOSRA, and Cadence AgeMOS  
+- **Circuit Simulation Tools:** PySpice, Xyce, Synopsys HSPICE MOSRA, and Cadence AgeMOS  
 
 Additionally, I have explored **metastability measurement techniques and wear-out models**, which intersect with my broader interests in **TCAD modeling and semiconductor reliability analysis**.  
 ### **Research Topics**  
@@ -18,7 +18,7 @@ Additionally, I have explored **metastability measurement techniques and wear-ou
 - **Wear-Out Models for Digital Circuits**  
 - **TCAD Modeling for Semiconductor Reliability Analysis**  
 - **Open-Source PDKs: Sky130nm and ASAP7nm**  
-- **SPICE-Based Circuit Simulation (PySpice, Synopsys HSPICE MOSRA, Cadence AgeMOS)**  
+- **SPICE-Based Circuit Simulation (PySpice, Xyce, Synopsys HSPICE MOSRA, Cadence AgeMOS)**  
 
 ### **Teaching Assistant, UC Santa Cruz**  
 *Jan 2024 - Present*  
