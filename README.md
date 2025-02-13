@@ -1,6 +1,25 @@
 # MS CSE @ UC Santa Cruz
 
 ## **Work Experience**
+### **Graduate Researcher, UC Santa Cruz**  
+*July 2024 - Present*  
+I am currently focused on **characterizing and modeling Bias Temperature Instability (BTI) and Timing Violations**, with a particular emphasis on **Negative Bias Temperature Instability (NBTI)**—a critical reliability challenge in **planar, FinFET, and Gate-All-Around FET (GAAFET) architectures**.  
+
+Since Summer 2024, I have conducted an extensive **literature review** on **NBTI characterization methodologies**, exploring various approaches to modeling its impact on circuit reliability. My work involves using **open-source and industry-standard tools** for **MOSFET reliability analysis**, including:  
+- **Open-Source PDKs:** Sky130nm and ASAP7nm  
+- **Circuit Simulation Tools:** PySpice, Synopsys HSPICE MOSRA, and Cadence AgeMOS  
+
+Additionally, I have explored **metastability measurement techniques and wear-out models**, which intersect with my broader interests in **TCAD modeling and semiconductor reliability analysis**.  
+### **Research Topics**  
+- **Bias Temperature Instability (BTI) and Timing Violations**  
+- **Negative Bias Temperature Instability (NBTI) in Planar, FinFET, and GAAFET Devices**  
+- **Circuit Aging and Reliability Challenges in Advanced CMOS Technologies**  
+- **Metastability Characterization and Measurement Techniques**  
+- **Wear-Out Models for Digital Circuits**  
+- **TCAD Modeling for Semiconductor Reliability Analysis**  
+- **Open-Source PDKs: Sky130nm and ASAP7nm**  
+- **SPICE-Based Circuit Simulation (PySpice, Synopsys HSPICE MOSRA, Cadence AgeMOS)**  
+
 ### **Teaching Assistant, UC Santa Cruz**  
 *Jan 2024 - Present*  
 Assisting in **Advanced Computer Networks** and **Introduction to Networking** courses. Led lab sections, guiding students through topics such as **TCP/IP**, **VLANs**, **OSI model**, and **LAN security**, **Layer 2 & Layer 3 Switches**, **OSPF, BGP, HSRP, VRRP, BPDU, PortFast**. Developed strong communication skills while helping students build practical networking solutions.
@@ -31,7 +50,4 @@ Executed the complete **RTL to GDSII flow** using OpenLane with Skywater 130 PDK
 *Apr 2024 - Jun 2024*  
 Designed and implemented FPGA logic systems on the **Icebreaker iCE40**, including **AXI**, **Memory**, and **LUTs** for complex operations. Developed testbenches and performed **functional and formal verification** using open-source tools, including clock domain crossing and synthesis for deployment on FPGA.
 
-## **Research**
-### Metastability and Bias Temperature Instability (BTI) Analysis in FPGAs  
-Currently conducting research on **metastability and BTI in FPGAs**, focusing on setup and hold time violations, flip-flop stability, and **MOS aging**. Using **PySpice** and **Xyce** for simulation, I analyze the impact of temperature variations and other parameters on **circuit reliability**. My research involves **Monte Carlo simulations** for failure rate analysis and uses **Sky130 PDK** and **Synopsys MOSRA HSPICE**, **Cadence AgeMos** for characterizing aging.
 
