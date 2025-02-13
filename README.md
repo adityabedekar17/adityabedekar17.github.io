@@ -1,4 +1,4 @@
-#Aditya Bedekar
+# Aditya Bedekar
 
 ## **Work Experience**
 ### **Graduate Researcher, UC Santa Cruz**  
