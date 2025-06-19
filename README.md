@@ -1,7 +1,7 @@
 # Aditya Bedekar
-
+Resume: https://drive.google.com/file/d/1KljFUM9n06uTe49zdZMHAnAYTJ2r1cld/view?usp=sharing
 ## **Work Experience**
-### **Graduate Researcher, UC Santa Cruz**  
+### **Graduate Researcher, HSC- Hardware Systems Collective, UC Santa Cruz**  
 *July 2024 - Present*  
 I am currently focused on **characterizing and modeling Bias Temperature Instability (BTI) and Timing Violations**, with a particular emphasis on **Negative Bias Temperature Instability (NBTI)**—a critical reliability challenge in **planar, FinFET, and Gate-All-Around FET (GAAFET) architectures**.  
 
