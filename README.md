@@ -1,5 +1,5 @@
 # Aditya Bedekar
-Resume: [https://drive.google.com/file/d/1KljFUM9n06uTe49zdZMHAnAYTJ2r1cld/view?usp=sharing](Resume: https://drive.google.com/file/d/1KljFUM9n06uTe49zdZMHAnAYTJ2r1cld/view?usp=sharing)
+Resume: [https://drive.google.com/file/d/1KljFUM9n06uTe49zdZMHAnAYTJ2r1cld/view?usp=sharing](https://drive.google.com/file/d/1KljFUM9n06uTe49zdZMHAnAYTJ2r1cld/view?usp=sharing)
 ## **Work Experience**
 ### **Graduate Researcher, Hardware Systems Collective, UC Santa Cruz**  
 *July 2024 - Present*  
