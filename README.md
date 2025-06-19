@@ -2,24 +2,27 @@
 Resume: [https://drive.google.com/file/d/1KljFUM9n06uTe49zdZMHAnAYTJ2r1cld/view?usp=sharing](https://drive.google.com/file/d/1KljFUM9n06uTe49zdZMHAnAYTJ2r1cld/view?usp=sharing)
 ## **Work Experience**
 ### **Graduate Researcher, Hardware Systems Collective, UC Santa Cruz**  
-*July 2024 - Present*  
-I am currently focused on **characterizing and modeling Bias Temperature Instability (BTI) and Timing Violations**, with a particular emphasis on **Negative Bias Temperature Instability (NBTI)**—a critical reliability challenge in **planar, FinFET, and Gate-All-Around FET (GAAFET) architectures**.  
+*July 2024 – Present*  
+I am currently investigating **Bias Temperature Instability (BTI) in advanced nodes**, focusing on **Negative Bias Temperature Instability (NBTI)** a key reliability issue in **planar, FinFET architectures**. NBTI leads to threshold voltage shifts in PMOS devices, inducing **circuit aging and timing degradation** that threaten long-term reliability and open pathways for **hardware security vulnerabilities**.
 
-Since Summer 2024, I have conducted an extensive **literature review** on **NBTI characterization methodologies**, exploring various approaches to modeling its impact on circuit reliability. My work involves using **open-source and industry-standard tools** for **MOSFET reliability analysis**, including:  
-- **Open-Source PDKs:** Sky130nm and ASAP7nm  
-- **Circuit Simulation Tools:** PySpice, Xyce, Synopsys HSPICE MOSRA, and Cadence AgeMOS  
+Since Summer 2024, I have conducted a **comprehensive literature survey** and performed **modeling and simulation** of BTI using both **SPICE-level degradation models** and **TCAD-based physical simulation workflows**. These simulations analyze the **stress and recovery phases**, enabling the study of aging-induced shifts in standard cell timing (e.g., clk-to-Q delay) under various thermal and electrical stress conditions.
 
-Additionally, I have explored **metastability measurement techniques and wear-out models**, which intersect with my broader interests in **TCAD modeling and semiconductor reliability analysis**.  
-### **Research Topics**  
-- **Bias Temperature Instability (BTI) and Timing Violations**  
-- **Negative Bias Temperature Instability (NBTI) in Planar, FinFET, and GAAFET Devices**  
-- **Circuit Aging and Reliability Challenges in Advanced CMOS Technologies**  
-- **Metastability Characterization and Measurement Techniques**  
-- **Wear-Out Models for Digital Circuits**  
-- **TCAD Modeling for Semiconductor Reliability Analysis**  
-- **Open-Source PDKs: Sky130nm and ASAP7nm**  
-- **SPICE-Based Circuit Simulation (PySpice, Xyce, Synopsys HSPICE MOSRA, Cadence AgeMOS)**  
+My research includes:
+- **Circuit-level SPICE simulations** of NBTI aging using **Sky130nm and ASAP7nm open-source PDKs**, evaluated through **Synopsys HSPICE and MOSRA** models.
+- **Device-level modeling of BTI** in **7nm FinFETs** using **Synopsys Sentaurus TCAD**, accurately capturing **temperature-dependent stress and recovery behavior**.
+- Exploration of **NBTI-induced delay degradation in sequential elements** such as D flip-flops and its implications on **metastability margins** and system timing reliability.
+- Analysis of **NBTI-based hardware security threats**, through BTI-induced degradation.
 
+### **Research Topics**
+- **Bias Temperature Instability (BTI): Modeling, Stress, Recovery**
+- **NBTI in Planar, FinFET Devices**
+- **Circuit Aging: Threshold Voltage Shifts and Delay Failures**
+- **Hardware Security: BTI-Aware Side Channel Attacks**
+- **Metastability Degradation in Aging Circuits**
+- **TCAD Modeling: Sentaurus Workflow for BTI Simulation**
+- **SPICE-Based Reliability Modeling: MOSRA, Power-law, R-D Models**
+- **Open-Source PDK Characterization: Sky130nm and ASAP7nm**
+  
 ### **Teaching Assistant, UC Santa Cruz**  
 *Jan 2024 - Present*  
 Assisting in **Advanced Computer Networks** and **Introduction to Networking** courses. Led lab sections, guiding students through topics such as **TCP/IP**, **VLANs**, **OSI model**, and **LAN security**, **Layer 2 & Layer 3 Switches**, **OSPF, BGP, HSRP, VRRP, BPDU, PortFast**. Developed strong communication skills while helping students build practical networking solutions.
