@@ -1,5 +1,5 @@
 # Aditya Bedekar
-Resume: [https://drive.google.com/file/d/136NfDdkpXh04hR8Stes1l2Gx4POXvdTK/view?usp=sharing](https://drive.google.com/file/d/136NfDdkpXh04hR8Stes1l2Gx4POXvdTK/view?usp=sharing)
+Resume: [https://drive.google.com/file/d/1PvV5T2zSLgZOkUlVNXn8Zh4Ys6oBiTGc/view?usp=drive_link](https://drive.google.com/file/d/1PvV5T2zSLgZOkUlVNXn8Zh4Ys6oBiTGc/view?usp=drive_link)
 
 Linkedin: [https://www.linkedin.com/in/aditya-bedekar/](https://www.linkedin.com/in/aditya-bedekar/)
 
