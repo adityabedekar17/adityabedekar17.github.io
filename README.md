@@ -35,8 +35,10 @@ Assisting in **Advanced Computer Networks** and **Introduction to Networking** c
 Implemented data acquisition and logging from industrial sensors using **Modbus protocol** and **RS-232** for real-time visualization on HMI devices. Gained experience in **data acquisition systems** and **industrial sensor technology**, enhancing my ability to work with embedded systems.
 
 ## Education
+### **University of California, Santa Cruz**
+PhD Student, Computer Science and Engineering ( September 2025 - )
 ### **University of California, Santa Cruz**  
-Master of Science in Computer Science and Engineering  (Expected May 2025)  
+Master of Science in Computer Science and Engineering  (September 2023 - June 2025)  
 My coursework includes Computer Architecture , Digital Design, VLSI, and Machine Learning. I have also gained experience working with Lattice Semiconductor FPGAs, skywater SKY130 PDK, and RTL-to-GDS flow.
 
 ### **University of Mumbai**  
