@@ -7,7 +7,7 @@ Linkedin: [https://www.linkedin.com/in/aditya-bedekar/](https://www.linkedin.com
 
 ### **Graduate Student Researcher, Hardware Systems Collective, UC Santa Cruz**  
 *Oct 2025 – Dec 2025*  
-Focused on **circuit reliability and hardware security**. Worked on **BTI-induced device aging** and its implications on digital circuits and secure FPGA fabrics.
+Focused on **circuit reliability and hardware security**. Currently working on TDDB (Time Dependent Dielectric Breakdown).
 
 ### **Graduate Researcher, Hardware Systems Collective, UC Santa Cruz**  
 *Jul 2024 – Jun 2025*  
