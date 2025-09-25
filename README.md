@@ -1,61 +1,65 @@
 # Aditya Bedekar
-Resume: [https://drive.google.com/file/d/1PvV5T2zSLgZOkUlVNXn8Zh4Ys6oBiTGc/view?usp=drive_link](https://drive.google.com/file/d/1PvV5T2zSLgZOkUlVNXn8Zh4Ys6oBiTGc/view?usp=drive_link)
+Resume: [https://drive.google.com/file/d/136NfDdkpXh04hR8Stes1l2Gx4POXvdTK/view?usp=sharing](https://drive.google.com/file/d/136NfDdkpXh04hR8Stes1l2Gx4POXvdTK/view?usp=sharing)
 
 Linkedin: [https://www.linkedin.com/in/aditya-bedekar/](https://www.linkedin.com/in/aditya-bedekar/)
 
 ## **Work Experience**
+
+### **Graduate Student Researcher, Hardware Systems Collective, UC Santa Cruz**  
+*Oct 2025 – Dec 2025*  
+Focused on **circuit reliability and hardware security**. Worked on **BTI-induced device aging** and its implications on digital circuits and secure FPGA fabrics.
+
 ### **Graduate Researcher, Hardware Systems Collective, UC Santa Cruz**  
-*July 2024 – Present*  
-I am currently investigating **Bias Temperature Instability (BTI) in advanced nodes**, focusing on **Negative Bias Temperature Instability (NBTI)** a key reliability issue in **planar, FinFET architectures**. NBTI leads to threshold voltage shifts in PMOS devices, inducing **circuit aging and timing degradation** that threaten long-term reliability and open pathways for **hardware security vulnerabilities**.
+*Jul 2024 – Jun 2025*  
+- Developed a **TCAD-based workflow** (Synopsys Sentaurus) to model BTI-induced threshold voltage shifts in 7nm FinFET architectures, including stress and recovery.  
+- Integrated **SPICE-based tools** (PySpice, Xyce, HSPICE MOSRA) to characterize circuit-level aging, enabling **clock-to-Q delay analysis** in Sky130 standard cells.  
+- Simulated **PMOS/NMOS degradation** under varying stress voltages and temperatures, quantifying BTI impact on timing reliability.  
+- Investigated **hardware security implications** of BTI, identifying side-channel vulnerabilities in FPGA fabrics due to NBTI-induced degradation.  
 
-Since Summer 2024, I have conducted a **comprehensive literature survey** and performed **modeling and simulation** of BTI using both **SPICE-level degradation models** and **TCAD-based physical simulation workflows**. These simulations analyze the **stress and recovery phases**, enabling the study of aging-induced shifts in standard cell timing (e.g., clk-to-Q delay) under various thermal and electrical stress conditions.
-
-My research includes:
-- **Circuit-level SPICE simulations** of NBTI aging using **Sky130nm and ASAP7nm open-source PDKs**, evaluated through **Synopsys HSPICE and MOSRA** models.
-- **Device-level modeling of BTI** in **7nm FinFETs** using **Synopsys Sentaurus TCAD**, accurately capturing **temperature-dependent stress and recovery behavior**.
-- Exploration of **NBTI-induced delay degradation in sequential elements** such as D flip-flops and its implications on **metastability margins** and system timing reliability.
-- Analysis of **NBTI-based hardware security threats**, through BTI-induced degradation.
-
-### **Research Topics**
-- **Bias Temperature Instability (BTI): Modeling, Stress, Recovery**
-- **NBTI in Planar, FinFET Devices**
-- **Circuit Aging: Threshold Voltage Shifts and Delay Failures**
-- **Hardware Security: BTI-Aware Side Channel Attacks**
-- **Metastability Degradation in Aging Circuits**
-- **TCAD Modeling: Sentaurus Workflow for BTI Simulation**
-- **SPICE-Based Reliability Modeling: MOSRA, Power-law, R-D Models**
-- **Open-Source PDK Characterization: Sky130nm and ASAP7nm**
-  
 ### **Teaching Assistant, UC Santa Cruz**  
-*Jan 2024 - Present*  
-Assisting in **Advanced Computer Networks** and **Introduction to Networking** courses. Led lab sections, guiding students through topics such as **TCP/IP**, **VLANs**, **OSI model**, and **LAN security**, **Layer 2 & Layer 3 Switches**, **OSPF, BGP, HSRP, VRRP, BPDU, PortFast**. Developed strong communication skills while helping students build practical networking solutions.
+*Jan 2024 – Jun 2025*  
+- Led lab sections for 100+ students in **Advanced Computer Networks** and **Introduction to Networking**.  
+- Covered **TCP/IP, VLAN, OSI model, LAN security, Layer 2 & Layer 3 switches, OSPF, BGP, HSRP, VRRP, BPDU, PortFast**.  
+- Assisted with coursework, grading, and developed a **QR-based attendance system** to improve class efficiency.  
 
-### Summer Intern, Godrej & Boyce  
+### **Intern, Godrej & Boyce**  
 *Summer 2022*  
-Implemented data acquisition and logging from industrial sensors using **Modbus protocol** and **RS-232** for real-time visualization on HMI devices. Gained experience in **data acquisition systems** and **industrial sensor technology**, enhancing my ability to work with embedded systems.
+- Implemented **data acquisition from industrial sensors** using Modbus and UART.  
+- Achieved **real-time visualization** on HMI devices via RS-232.  
 
-## Education
-### **University of California, Santa Cruz**
-PhD Student, Computer Science and Engineering ( September 2025 - )
+---
+
+## **Education**
+
 ### **University of California, Santa Cruz**  
-Master of Science in Computer Science and Engineering  (September 2023 - June 2025)  
-My coursework includes Computer Architecture , Digital Design, VLSI, and Machine Learning. I have also gained experience working with Lattice Semiconductor FPGAs, skywater SKY130 PDK, and RTL-to-GDS flow.
+**PhD, Computer Science and Engineering** (Sept 2025 – )  
+
+**Master of Science, Computer Science and Engineering** (Sept 2023 – Jun 2025)  
+Coursework: Computer Architecture, Digital Design, VLSI, Machine Learning, Digital Signal Processing.  
+Hands-on with **FPGA design (Lattice iCE40), Sky130 PDK, ASAP 7 PDK**, and **RTL-to-GDSII flows**.  
 
 ### **University of Mumbai**  
-Bachelor of Engineering in Electronics (August 2019 - June 2023)  
-Gained foundational knowledge in Digital Logic Circuits, Computer Networks, and Basic VLSI Design, with hands-on lab experience that equipped me with practical skills in Computer Networks, VLSI, and Logic Design.
+**Bachelor of Engineering, Electronics** (Aug 2019 – Jun 2023)  
+Coursework: Digital Logic Circuits, Computer Networks, VLSI Design.  
+Built foundational skills in **logic design, networking, and VLSI** through lab projects.  
+
+---
 
 ## **Projects**
-### Cache Performance Optimization Using ESESC Simulator  
-*Sep 2023 - Dec 2023*  
-Simulated and optimized the performance of the **Lempel-Ziv-Welch (LZW) compression algorithm** to improve **IPC** on a single-core processor. Enhanced **L1** and **L2 cache configurations**, achieving a 1.69x increase in IPC. Analyzed bottlenecks, achieving significant improvements in **cache hit rates** and overall performance.
 
-### RTL to GDSII Flow with OpenLane and Skywater 130 PDK  
-*Jan 2024 - Mar 2024*  
-Executed the complete **RTL to GDSII flow** using OpenLane with Skywater 130 PDK, gaining hands-on experience in **synthesis**, **DFT**, **floorplanning**, **clock tree synthesis**, and **routing**. Applied **low-power techniques** and worked with HVT, LVT, and SVT cells to optimize power efficiency, meeting timing and area requirements.
+### **Local RAG Assistant for SPICE & TCAD Workflows**  
+- Built a **local RAG workflow** with LangChain, FAISS, and HuggingFace embeddings to query 8,000+ pages of SPICE/TCAD documentation.  
+- Integrated **offline LLM inference** (Mistral, Llama3) with vector search to provide fact-grounded answers for reliability simulations (BTI, HCI, TDDB).  
+- Improved **engineering productivity** by reducing query time from hours to seconds, with responses citing **page numbers and references**.  
 
-### Logic Design, Synthesis, and Verification on FPGA  
-*Apr 2024 - Jun 2024*  
-Designed and implemented FPGA logic systems on the **Icebreaker iCE40**, including **AXI**, **Memory**, and **LUTs** for complex operations. Developed testbenches and performed **functional and formal verification** using open-source tools, including clock domain crossing and synthesis for deployment on FPGA.
+### **Cache Performance Optimization Using ESESC Simulator**  
+- Simulated and optimized the **LZW compression algorithm** on a single-core RISC-V processor.  
+- Reduced **L2 cache miss rate** from 99.8% to 58% and improved **IPC from 0.26 to 0.44** (1.69×).  
+- Analyzed cache bottlenecks and identified optimization strategies for L1/L2 configurations.  
+
+### **Logic Design, Synthesis, and Verification on FPGA**  
+- Designed logic systems on the **Lattice iCE40 FPGA**, incorporating AXI, memory, LUTs, and DSP operations.  
+- Built optimized **FIFO and MAC units** and performed **functional and formal verification** with open-source toolchains.  
+- Executed **PnR and CDC verification** across multiple clock domains.   
 
 
