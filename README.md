@@ -3,8 +3,7 @@ Resume: [https://drive.google.com/file/d/136NfDdkpXh04hR8Stes1l2Gx4POXvdTK/view?
 
 Linkedin: [https://www.linkedin.com/in/aditya-bedekar/](https://www.linkedin.com/in/aditya-bedekar/)
 
-Meet with me ! 
-[https://calendar.app.google/z2qwzWyfgMGXcee97](url)
+
 
 ## **Work Experience**
 
