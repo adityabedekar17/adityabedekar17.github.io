@@ -14,10 +14,10 @@ Linkedin: [Click to View](https://www.linkedin.com/in/aditya-bedekar/)
 
 ### **Graduate Student Researcher, Hardware Systems Collective, UC Santa Cruz**  
 *Oct 2025 – Dec 2025*  
- - Led advanced BTI reliability modeling at sub-7nm nodes by building scalable SPICE workflows for **7nm FinFET** and **3nm GAAFET** standard cells across temperature and stress corners. 
-- Appended BSIM-CMG model card with PDK-consistent, physics-accurate parameters to enable predictive aging analysis 
- -Designed a containerized Docker pipeline for automated delay extraction and visualization, enabling rapid comparison of aging-induced propagation delay shifts. 
- - Designed and simulated a 7nm FinFET inverter in TCAD, extracting device-level aging characteristics.
+- Led advanced BTI reliability modeling at sub-7nm nodes by building scalable SPICE workflows for **7nm FinFET** and **3nm GAAFET** standard cells across temperature and stress corners. 
+- Appended BSIM-CMG model card with PDK-consistent, physics-accurate parameters to enable predictive aging analysis. 
+- Designed a containerized Docker pipeline for automated delay extraction and visualization, enabling rapid comparison of aging-induced propagation delay shifts. 
+- Designed and simulated a 7nm FinFET inverter in TCAD, extracting device-level aging characteristics.
 ### **Graduate Researcher, Hardware Systems Collective, UC Santa Cruz**  
 *Jul 2024 – Jun 2025*  
 - Developed a **TCAD-based workflow** (Synopsys Sentaurus) to model BTI-induced threshold voltage shifts in 7nm FinFET architectures, including stress and recovery.  
