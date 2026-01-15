@@ -9,7 +9,7 @@ Linkedin: [Click to View](https://www.linkedin.com/in/aditya-bedekar/)
  Research experience includes thesis work on BTI modeling using TCAD and SPICE to analyze device aging, timing degradation, and security vulnerabilities. 
  Applied AI RAG workflows enabling secure document access and improved engineering productivity. Skilled in digital design, PCB Design, FPGA flows, EDA tools. 
 
-
+---
 ## **Experience**
 
 ### **Graduate Student Researcher, Hardware Systems Collective, UC Santa Cruz**  
