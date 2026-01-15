@@ -1,16 +1,23 @@
 # Aditya Bedekar
-Resume: [https://drive.google.com/file/d/136NfDdkpXh04hR8Stes1l2Gx4POXvdTK/view?usp=sharing](https://drive.google.com/file/d/136NfDdkpXh04hR8Stes1l2Gx4POXvdTK/view?usp=sharing)
+Resume: [Click to View](https://drive.google.com/file/d/136NfDdkpXh04hR8Stes1l2Gx4POXvdTK/view?usp=sharing)
 
-Linkedin: [https://www.linkedin.com/in/aditya-bedekar/](https://www.linkedin.com/in/aditya-bedekar/)
+Linkedin: [Click to View](https://www.linkedin.com/in/aditya-bedekar/)
+
+## **Summary**
+ PhD student in Computer Science and Engineering at UC Santa Cruz, specializing in hardware security, device modeling and reliability, advised by Dr.Dustin Richmond. 
+ 
+ Research experience includes thesis work on BTI modeling using TCAD and SPICE to analyze device aging, timing degradation, and security vulnerabilities. 
+ Applied AI RAG workflows enabling secure document access and improved engineering productivity. Skilled in digital design, PCB Design, FPGA flows, EDA tools. 
 
 
-
-## **Work Experience**
+## **Experience**
 
 ### **Graduate Student Researcher, Hardware Systems Collective, UC Santa Cruz**  
 *Oct 2025 – Dec 2025*  
-Focused on **circuit reliability and hardware security**. Currently working on TDDB (Time Dependent Dielectric Breakdown).
-
+ - Led advanced BTI reliability modeling at sub-7nm nodes by building scalable SPICE workflows for **7nm FinFET** and **3nm GAAFET** standard cells across temperature and stress corners. 
+- Appended BSIM-CMG model card with PDK-consistent, physics-accurate parameters to enable predictive aging analysis 
+ -Designed a containerized Docker pipeline for automated delay extraction and visualization, enabling rapid comparison of aging-induced propagation delay shifts. 
+ - Designed and simulated a 7nm FinFET inverter in TCAD, extracting device-level aging characteristics.
 ### **Graduate Researcher, Hardware Systems Collective, UC Santa Cruz**  
 *Jul 2024 – Jun 2025*  
 - Developed a **TCAD-based workflow** (Synopsys Sentaurus) to model BTI-induced threshold voltage shifts in 7nm FinFET architectures, including stress and recovery.  
@@ -18,23 +25,14 @@ Focused on **circuit reliability and hardware security**. Currently working on T
 - Simulated **PMOS/NMOS degradation** under varying stress voltages and temperatures, quantifying BTI impact on timing reliability.  
 - Investigated **hardware security implications** of BTI, identifying side-channel vulnerabilities in FPGA fabrics due to NBTI-induced degradation.  
 
-### **Teaching Assistant, UC Santa Cruz**  
-*Jan 2024 – Jun 2025*  
-- Led lab sections for 100+ students in **Advanced Computer Networks** and **Introduction to Networking**.  
-- Covered **TCP/IP, VLAN, OSI model, LAN security, Layer 2 & Layer 3 switches, OSPF, BGP, HSRP, VRRP, BPDU, PortFast**.  
-- Assisted with coursework, grading, and developed a **QR-based attendance system** to improve class efficiency.  
-
-### **Intern, Godrej & Boyce**  
-*Summer 2022*  
-- Implemented **data acquisition from industrial sensors** using Modbus and UART.  
-- Achieved **real-time visualization** on HMI devices via RS-232.  
 
 ---
 
 ## **Education**
 
 ### **University of California, Santa Cruz**  
-**PhD, Computer Science and Engineering** (Sept 2025 – )  
+**PhD, Computer Science and Engineering** (Sept 2025 – Expected 06/28)  
+Coursework: Semiconductor Physics, Nano Electronics, Semiconductor Reliability, TCAD Device and Process Technology
 
 **Master of Science, Computer Science and Engineering** (Sept 2023 – Jun 2025)  
 Coursework: Computer Architecture, Digital Design, VLSI, Machine Learning, Digital Signal Processing.  
@@ -46,22 +44,4 @@ Coursework: Digital Logic Circuits, Computer Networks, VLSI Design.
 Built foundational skills in **logic design, networking, and VLSI** through lab projects.  
 
 ---
-
-## **Projects**
-
-### **Local RAG Assistant for SPICE & TCAD Workflows**  
-- Built a **local RAG workflow** with LangChain, FAISS, and HuggingFace embeddings to query 8,000+ pages of SPICE/TCAD documentation.  
-- Integrated **offline LLM inference** (Mistral, Llama3) with vector search to provide fact-grounded answers for reliability simulations (BTI, HCI, TDDB).  
-- Improved **engineering productivity** by reducing query time from hours to seconds, with responses citing **page numbers and references**.  
-
-### **Cache Performance Optimization Using ESESC Simulator**  
-- Simulated and optimized the **LZW compression algorithm** on a single-core RISC-V processor.  
-- Reduced **L2 cache miss rate** from 99.8% to 58% and improved **IPC from 0.26 to 0.44** (1.69×).  
-- Analyzed cache bottlenecks and identified optimization strategies for L1/L2 configurations.  
-
-### **Logic Design, Synthesis, and Verification on FPGA**  
-- Designed logic systems on the **Lattice iCE40 FPGA**, incorporating AXI, memory, LUTs, and DSP operations.  
-- Built optimized **FIFO and MAC units** and performed **functional and formal verification** with open-source toolchains.  
-- Executed **PnR and CDC verification** across multiple clock domains.   
-
 
