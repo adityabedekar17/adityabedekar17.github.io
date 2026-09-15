@@ -10,11 +10,11 @@ Linkedin: [Click to View](https://www.linkedin.com/in/aditya-bedekar/)
 
 ---
 ## **Experience**
-### **Visiting Scholar, Imec, Leuven, Belgium
+### **Visiting Scholar, Imec, Leuven, Belgium**
 *June 2026 - September 2026*
 -  Calibrated physics-informed compact models to analyse gate leakage mechanisms for 2 nm GAAFET Nanosheet using GTS TCAD and SPICE.
 - Performed a detailed analysis across a range of geometries and temperatures of the nanosheet, to study the effects on gate leakage and captured these in the compact model.
-- 
+
 ### **Graduate Student Researcher, Hardware Systems Collective, UC Santa Cruz**  
 *Oct 2025 – June 2026*  
  - Worked on building FinFET structures using open-source literature,  to analyse degradation in SPICE, based on physics-aware & accurate TCAD structures. 
@@ -35,7 +35,7 @@ Linkedin: [Click to View](https://www.linkedin.com/in/aditya-bedekar/)
 ## **Education**
 
 ### **University of California, Santa Cruz**  
-**PhD, Computer Science and Engineering** (Sept 2025 – Expected 06/28)  
+**PhD, Computer Science and Engineering** (Sept 2025 – Expected 06/28) 
 Coursework: Semiconductor Physics, Nano Electronics, Semiconductor Reliability, TCAD Device and Process Technology
 
 **Master of Science, Computer Science and Engineering** (Sept 2023 – Jun 2025)  
