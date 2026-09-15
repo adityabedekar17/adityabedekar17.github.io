@@ -7,17 +7,21 @@ Linkedin: [Click to View](https://www.linkedin.com/in/aditya-bedekar/)
  PhD student in Computer Science and Engineering at UC Santa Cruz, specializing in hardware security, device modeling and reliability, advised by Dr.Dustin Richmond. 
  
  Research experience includes thesis work on BTI modeling using TCAD and SPICE to analyze device aging, timing degradation, and security vulnerabilities. 
- Applied AI RAG workflows enabling secure document access and improved engineering productivity. Skilled in digital design, PCB Design, FPGA flows, EDA tools. 
 
 ---
 ## **Experience**
-
+### **Visiting Scholar, Imec, Leuven, Belgium
+*June 2026 - September 2026*
+-  Calibrated physics-informed compact models to analyse gate leakage mechanisms for 2 nm GAAFET Nanosheet using GTS TCAD and SPICE.
+- Performed a detailed analysis across a range of geometries and temperatures of the nanosheet, to study the effects on gate leakage and captured these in the compact model.
+- 
 ### **Graduate Student Researcher, Hardware Systems Collective, UC Santa Cruz**  
-*Oct 2025 – Dec 2025*  
-- Led advanced BTI reliability modeling at sub-7nm nodes by building scalable SPICE workflows for **7nm FinFET** and **3nm GAAFET** standard cells across temperature and stress corners. 
-- Appended BSIM-CMG model card with PDK-consistent, physics-accurate parameters to enable predictive aging analysis. 
-- Designed a containerized Docker pipeline for automated delay extraction and visualization, enabling rapid comparison of aging-induced propagation delay shifts. 
-- Designed and simulated a 7nm FinFET inverter in TCAD, extracting device-level aging characteristics.
+*Oct 2025 – June 2026*  
+ - Worked on building FinFET structures using open-source literature,  to analyse degradation in SPICE, based on physics-aware & accurate TCAD structures. 
+ - Gained hands-on experience with Virtual Fabrication and Process Engineering scripts using Synopsys Sentaurus TCAD. 
+ - Built a diverse repository of FinFET structures that can be used for physics-aware analysis of degradation in FinFETs, with variations in Epitaxy, Materials, Source-Drain Engineering. 
+ - Led advanced BTI reliability modeling at sub-7nm nodes by building scalable SPICE workflows for 7nm FinFET and 3nm GAAFET standard cells across temperature and stress corners.
+
 ### **Graduate Researcher, Hardware Systems Collective, UC Santa Cruz**  
 *Jul 2024 – Jun 2025*  
 - Developed a **TCAD-based workflow** (Synopsys Sentaurus) to model BTI-induced threshold voltage shifts in 7nm FinFET architectures, including stress and recovery.  
